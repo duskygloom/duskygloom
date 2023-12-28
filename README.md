@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Give me a few stars maybe? Grade is running low! ⚠️⚠️
-[![Github Grade Card](https://github-readme-stats.vercel.app/api?username=duskygloom&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Grade Card](https://github-readme-stats.vercel.app/api?username=duskygloom&show_icons=true&theme=transparent)](https://github.com/duskygloom?tab=repositories)
 
 ### Wha- C is not 99%?!?! 😨😨
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duskygloom&langs_count=4&show_icons=true&theme=transparent)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duskygloom&langs_count=4&show_icons=true&theme=transparent)](https://github.com/duskygloom?tab=repositories)
